@@ -262,7 +262,7 @@ button,
 input,
 select,
 textarea {
-  color: #3a3a3a;
+  color: purple;
   font-family: 'Open sans',sans-serif;
   font-size: 100%;
   line-height: 1.5; }
@@ -422,16 +422,16 @@ em {
 Links
 --------------------------------------------------------------*/
 a {
-  color: #3a3a3a;
+  color: purple;
   text-decoration: none; }
 
 a:visited {
-  color: #3a3a3a; }
+  color: purple; }
 
 a:active,
 a:focus,
 a:hover {
-  color: #3a3a3a;
+  color: purple;
   opacity: 0.8; }
 
 /*--------------------------------------------------------------
